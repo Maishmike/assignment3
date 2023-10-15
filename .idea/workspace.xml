@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf3fbc6b-c72e-4827-842b-fa463a84ff77" name="Changes" comment="" />
+    <list default="true" id="bf3fbc6b-c72e-4827-842b-fa463a84ff77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -43,6 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/mikem/Desktop/Emobilis_L/Web Development",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -62,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697292068577</updated>
       <workItem from="1697292075822" duration="8321000" />
-      <workItem from="1697310121888" duration="34972000" />
+      <workItem from="1697310121888" duration="35496000" />
     </task>
     <servers />
   </component>

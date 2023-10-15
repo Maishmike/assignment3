@@ -2,5 +2,8 @@
     height: 50px;
 }
 body{
-    font-family: Quicksand, sans-serif;
+    font-family: "Trebuchet MS", sans-serif;
+}
+.fntchange{
+    font-family: "Century Gothic",sans-serif;
 }
